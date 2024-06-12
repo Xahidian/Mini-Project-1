@@ -34,7 +34,7 @@ The following features are used for the models:
 - Jupyter Notebook
 
 ## Report
-I have also written a detailed report based on these Projectc. The report provides a comprehensive overview of the Project.For more information, please refer to the report.
+I have also written a detailed report based on these Project. The report provides a comprehensive overview of the Project.For more information, please refer to the report.
 
 ## Contact
 If you have any questions or would like to discuss the project further, feel free to reach out to me.
