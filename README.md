@@ -11,9 +11,9 @@ Two machine learning models, Decision Tree and Random Forest, are employed to so
 ### Choice of Algorithms
 The algorithms chosen for this project were the Decision Tree and Random Forest classifiers. Here’s 
 ### why:
--Decision Trees: Decision Trees are simple to understand and interpret, and they can handle both 
+- Decision Trees: Decision Trees are simple to understand and interpret, and they can handle both 
 numerical and categorical data. They’re also capable of fitting complex datasets.
--Random Forests: Random Forests are an ensemble of Decision Trees. They aggregate the predictions of 
+- Random Forests: Random Forests are an ensemble of Decision Trees. They aggregate the predictions of 
 multiple Decision Trees to give a more accurate and stable prediction. They’re less likely to over fit than 
 a single Decision Tree.
 
@@ -31,11 +31,11 @@ The following features are used for the models:
 
 ## Technologies Used
 - Python
--Jupyter Notebook
+- Jupyter Notebook
 
-##Report
+## Report
 I have also written a detailed report based on these Projectc. The report provides a comprehensive overview of the Project.For more information, please refer to the report.
 
-##Contact
+## Contact
 If you have any questions or would like to discuss the project further, feel free to reach out to me.
 Thank you for visiting my Assignment!
