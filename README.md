@@ -38,4 +38,4 @@ I have also written a detailed report based on these Projectc. The report provid
 
 ## Contact
 If you have any questions or would like to discuss the project further, feel free to reach out to me.
-Thank you for visiting my Assignment!
+Thank you for visiting my Project!
